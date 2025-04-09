@@ -1,0 +1,8 @@
+to create the json server
+
+- clone
+- npm init -y
+- npm i json-server
+- create 3 files
+    - .gitignore -> node_modules/
+    -Server.js ->
